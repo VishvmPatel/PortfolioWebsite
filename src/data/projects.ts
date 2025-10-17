@@ -3,7 +3,7 @@ import { Project } from '@/types'
 export const projects: Project[] = [
   {
     id: '2',
-    title: 'Fashion Forward E-commerce Platform',
+    title: 'Fashion Forward',
     description: 'Comprehensive full-stack e-commerce application with React.js frontend, Node.js backend, and AI-powered chatbot',
     longDescription: 'Built a complete e-commerce platform featuring modern UI/UX design, secure authentication system, admin panel, payment integration with PayU gateway, AI-powered customer support chatbot using Google Gemini, real-time notifications with Socket.IO, and comprehensive order management. Includes customer features like shopping cart, wishlist, product reviews, and admin features like product management, order processing, and analytics dashboard.',
     image: '/images/ecommerce.jpg',
