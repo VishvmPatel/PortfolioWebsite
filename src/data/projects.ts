@@ -2,18 +2,6 @@ import { Project } from '@/types'
 
 export const projects: Project[] = [
   {
-    id: '1',
-    title: 'Portfolio Website',
-    description: 'Modern, responsive portfolio website built with Next.js and Tailwind CSS',
-    longDescription: 'A sleek, modern portfolio website showcasing my development skills with smooth animations, responsive design, and optimized performance. Features dark/light mode, smooth scrolling, and interactive elements.',
-    image: '/images/portfolio.jpg',
-    technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'Vercel'],
-    githubUrl: 'https://github.com/VishvmPatel/PortfolioWebsite',
-    liveUrl: 'https://portfolio-website-psi-seven-79.vercel.app',
-    featured: true,
-    category: 'web',
-  },
-  {
     id: '2',
     title: 'Fashion Forward E-commerce Platform',
     description: 'Comprehensive full-stack e-commerce application with React.js frontend, Node.js backend, and AI-powered chatbot',
