@@ -18,6 +18,7 @@ interface GitHubRepo {
   forks_count: number
   topics: string[]
   private: boolean
+  languages?: { [key: string]: number }
 }
 
 interface GitHubStats {
