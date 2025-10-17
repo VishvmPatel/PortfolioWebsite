@@ -9,7 +9,7 @@ export const projects: Project[] = [
     image: '/images/portfolio.jpg',
     technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'Vercel'],
     githubUrl: 'https://github.com/VishvmPatel/PortfolioWebsite',
-    liveUrl: 'https://vishvam-patel.dev',
+    liveUrl: 'https://portfolio-website-psi-seven-79.vercel.app',
     featured: true,
     category: 'web',
   },
