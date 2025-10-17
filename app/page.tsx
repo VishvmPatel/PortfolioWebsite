@@ -36,7 +36,7 @@ export default function HomePage() {
                 </div>
                 
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-white">
-                  <span className="text-white">Hi, I'm</span>
+                  <span className="text-white">Hi, I&apos;m</span>
                   <br />
                   <span className="text-slate-200 whitespace-nowrap">
                     Vishvam Samirkumar Patel
@@ -78,6 +78,7 @@ export default function HomePage() {
                 <div className="w-80 h-80 bg-gradient-to-br from-slate-800 to-slate-900 rounded-2xl shadow-2xl border border-slate-700 flex items-center justify-center overflow-hidden">
                   <div className="text-center">
                     <div className="w-32 h-32 bg-slate-700 rounded-full flex items-center justify-center mb-4 mx-auto overflow-hidden">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img 
                         src="/images/Vishvam_Photo.jpg" 
                         alt="Vishvam Samirkumar Patel" 
@@ -104,7 +105,7 @@ export default function HomePage() {
             </div>
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">Professional Overview</h2>
             <p className="text-lg text-slate-400 max-w-3xl mx-auto leading-relaxed">
-              I'm a dedicated full-stack developer with expertise in modern web technologies 
+              I&apos;m a dedicated full-stack developer with expertise in modern web technologies 
               and a focus on delivering scalable, maintainable solutions.
             </p>
           </div>
@@ -182,10 +183,10 @@ export default function HomePage() {
                 Contact
               </span>
             </div>
-            <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">Let's Work Together</h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">Let&apos;s Work Together</h2>
             <p className="text-lg text-slate-400 max-w-3xl mx-auto leading-relaxed">
-              I'm always interested in new opportunities and challenging projects. 
-              Let's discuss how we can collaborate to build something exceptional.
+              I&apos;m always interested in new opportunities and challenging projects. 
+              Let&apos;s discuss how we can collaborate to build something exceptional.
             </p>
           </div>
           
