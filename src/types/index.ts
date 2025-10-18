@@ -49,7 +49,7 @@ export interface SiteConfig {
   url: string
   ogImage: string
   links: {
-    twitter: string
+    instagram: string
     github: string
     linkedin: string
   }
